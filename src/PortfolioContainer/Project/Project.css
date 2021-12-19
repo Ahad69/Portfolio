@@ -1,0 +1,12 @@
+.pro-img:hover{
+    
+    
+    border-radius: 20px;
+}
+.pro-img{
+    border-radius: 20px; 
+}
+.project{
+    border-radius: 20px;
+    background: rgba(140, 216, 235, 0.212);
+}

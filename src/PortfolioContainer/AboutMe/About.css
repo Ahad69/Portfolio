@@ -1,0 +1,57 @@
+
+#aboutMe{
+        margin-top: 50px !important;
+       
+}
+.rounded {
+       
+        width: 75%;
+        margin: auto;
+       
+}
+
+hr.rounded2 {
+        border-top: 8px solid rgb(207, 152, 233);
+        border-radius: 5px;
+        width: 50%;
+        margin: auto;
+        margin-bottom: 5px;
+}
+hr.rounded3 {
+        border-top: 8px solid rgb(233, 152, 152);
+        border-radius: 5px;
+        width: 25%;
+        margin: auto;
+}
+hr.separator {
+        border-top: 8px solid rgb(238, 159, 12);
+        border-radius: 5px;
+        width: 25%;
+        margin-bottom: 30px;
+        
+}
+.about{
+        font-weight: 900;
+        color: rgb(3, 54, 54);
+}
+.about-title{
+        font-weight: 900;
+        margin-bottom: 15px;
+        color: orange;
+}
+h5{
+        font-weight: 800;
+        color: rgb(54, 134, 226);
+}
+.load{
+        width: 200px;
+        height: 10px;
+        border: 1px solid ;
+        background: gray;
+        overflow: hidden;
+        
+}
+.bar{
+        
+        background: rgb(150, 238, 142);
+}
