@@ -50,11 +50,13 @@ const ContractMe = () => {
             </h1>
                 
                 
-                <input type="text" id='name' placeholder="Your Name" name="name" />
-                <input type="email" id='email' placeholder="Your Email" name="email" />
+                <input type="text" id='name' placeholder="Your Name" name="name" required />
+                <input type="email" id='email' placeholder="Your Email" name="email" required/>
                 
-                <textarea type="textarea" rows={4} id='message'  placeholder="Message" name="message"></textarea>
-                <button type="submit" value="Send">Send</button>
+                <textarea type="textarea" rows={4} id='message' required  placeholder="Message" name="message"></textarea>
+                <div className="send">
+                <button type="submit" value="Send"><span>Send</span></button>
+                </div>
             </form>
             </Slide>
            

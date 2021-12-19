@@ -49,7 +49,7 @@ export default function Profile() {
               <a href="#contract"><button className="btn primary-btn m-5">HIRE ME</button></a>
               <a href='Ahad.pdf' download='Ahad Ahad-resume.pdf'>
               
-              <button className="btn nion m-5 text-white"> 
+              <button className="btn nion m-5"> 
               <span></span>
               <span></span>
               <span></span>

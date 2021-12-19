@@ -3,7 +3,7 @@ import { Button, Card, CardGroup } from 'react-bootstrap';
 import { Bounce, Fade, LightSpeed } from 'react-reveal';
 
 import { Link, useParams } from 'react-router-dom';
-import { ClipLoader
+import { ScaleLoader
 } from 'react-spinners';
 import './Details.css'
 
@@ -41,13 +41,13 @@ const Details = () => {
       <div className="div">
         
         { loading? 
-        <ClipLoader
+        <ScaleLoader
 
 
         
         className="clip m-5 p-5 text-bold"
         id="clip"
-        size={80}
+        size={100}
         color={"#c0392b"}
         loading={loading}
         />
