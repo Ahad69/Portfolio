@@ -21,7 +21,7 @@ export default function Home() {
      <Projects></Projects>
      <AboutMe></AboutMe>
      <ContractMe></ContractMe>
-     {/* <AHA></AHA> */}
+     
      <Footer></Footer>
     </div>
   );

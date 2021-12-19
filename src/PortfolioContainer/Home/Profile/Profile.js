@@ -16,8 +16,8 @@ export default function Profile() {
                 <a href="www.google.com">
                 <i className="fa fa-google-plus-square"></i>
                 </a>
-                <a href="https://www.instagram.com/ahad2hossain/">
-                <i className="fa fa-instagram"></i>
+                <a href="https://join.skype.com/invite/wmUTlD4WXTgH">
+                <i className="fa fa-skype"></i>
                 </a>
                 <a href="https://www.linkedin.com/in/ahad-hossain-b37492216/">
                 <i className="fa fa-linkedin-square"></i>

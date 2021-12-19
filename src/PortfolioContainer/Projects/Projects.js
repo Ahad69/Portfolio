@@ -14,7 +14,8 @@ const Projects = () => {
     },[])
     return (
         <div id="project">
-            <h1 className="text-center about">Projects</h1>
+           <div className="aj">
+           <h1 className="text-center about">Projects</h1>
             <ProgressBar  className="rounded">
             <ProgressBar animated  variant="info" now={35} key={1} />
             <ProgressBar animated variant="warning" now={30} key={2} />
@@ -23,6 +24,7 @@ const Projects = () => {
             {
                 projects.map(project =><Project project={project}></Project>)
             }
+           </div>
         </div>
     );
 };

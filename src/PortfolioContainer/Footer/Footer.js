@@ -11,8 +11,8 @@ const Footer = () => {
                 <a href="www.google.com">
                 <i className="fa fa-google-plus-square"></i>Google
                 </a>
-                <a href="https://www.instagram.com/ahad2hossain/">
-                <i className="fa fa-instagram"></i>Instagram
+                <a href="https://join.skype.com/invite/wmUTlD4WXTgH">
+                <i className="fa fa-skype"></i>Skype
                 </a>
                 <a href="https://www.linkedin.com/in/ahad-hossain-b37492216/">
                 <i className="fa fa-linkedin-square"></i>Linkedin

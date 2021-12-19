@@ -9,7 +9,8 @@ const Project = ({project}) => {
   return (
     
          
-         <div className="project mt-5">
+       <div className="project mt-5">
+         <Fade  right cascade>
         <div className="card mb-3 p-3 doc">
              <div className="row g-0">
                 <div className="col-md-4">
@@ -26,7 +27,7 @@ const Project = ({project}) => {
     
          </div>
     </div>
-
+    </Fade>
     </div>
    
   );
